@@ -79,4 +79,4 @@ The research paper is available in both PDF and DOCX formats in this repository.
 
 We acknowledge the authors of the original research paper "A Convolutional Neural Network Ensemble Model for Pneumonia Detection" for their foundational work that inspired this project.
 
-Checkout the research paper at [A Convolutional Neural Network Ensemble Model for Pneumonia Detection](https://www.sciencedirect.com/science/article/pii/S2772442523000436)
+Checkout the research paper at [A Convolutional Neural Network Ensemble Model for Pneumonia Detection](https://www.sciencedirect.com/science/article/pii/S2772442523000436).
